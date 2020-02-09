@@ -3,3 +3,6 @@ def function1():
 
 def print_hello(a):
     print("Hello", a)
+
+if True:
+    pass
